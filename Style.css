@@ -1,0 +1,19 @@
+ index.html {
+    body {
+        background-image: url(IMAGES/Soap\ 1.jpg);
+        height:100vh;
+        background-size: cover;
+    }
+    header {
+        
+        background-size: cover;
+    height: 200px;
+    background-image: url(IMAGES/download\ \(1\).jpg);
+    background-position: center;
+    }
+    section {
+        background-color: aliceblue;
+        height: 200px;
+
+    }
+ }
